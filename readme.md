@@ -9,4 +9,8 @@
 Skills
 <div align='center'>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-3776AB?style=flat&logo=HTML5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Javascript-3776AB?style=flat&logo=JavaScript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-3776AB?style=flat&logo=PostgreSQL&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
 </div>
