@@ -7,4 +7,6 @@
 학과 : 소프트웨어학과
 ===
 Skills
-<img src="https://img.shields.io/badge/#3776AB?style=flat&logo=python&logoColor=white"/>
+<div align='center'>
+  <img src="https://img.shields.io/badge/#3776AB?style=flat&logo=python&logoColor=white"/>
+</div>
