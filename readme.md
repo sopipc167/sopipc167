@@ -15,3 +15,16 @@
   <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white"/>
   <img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=Unity&logoColor=white"/>
 </div>
+***
+<div align='center'>👀Interests👀</div></br>
+<dl>
+  <dt>CS</dt>
+    <dd>Automata</dd>
+    <dd>Formal Language</dd>
+    <dd>Database</dd>
+    <dd>Computer Network</dd>
+  <dt>Mathmatics and AI</dt>
+    <dd>Monte Carlo Simulation</dd>
+    <dd>MLE/LSM</dd>
+    <dd>Numerical Analysis</dd>
+    <dd>NLP</dd>
