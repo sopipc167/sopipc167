@@ -29,6 +29,8 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white"/>
 
+***
+
 <div align='center'>👀Interests👀</div></br>
 <dl>
   <dt>CS</dt>
