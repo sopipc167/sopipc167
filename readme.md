@@ -39,4 +39,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sopipc167&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sopipc167&layout=compact)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/백준아이디/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/sopipc167/)
